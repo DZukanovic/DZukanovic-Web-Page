@@ -4,3 +4,4 @@ Denajs First Repository
 Hallo Welt.
 Mein Name ist Denaj Zukanovic.
 Ich bin 19 Jahre alt.
+Ich komme aus Deutschland und ich lebe in Friedrichshafen.
